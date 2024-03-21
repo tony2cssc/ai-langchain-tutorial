@@ -1,0 +1,13 @@
+[tool.poetry]
+name = "ai-langchain-tutorial"
+version = "0.1.0"
+description = ""
+authors = ["tony2cssc <jijing.guo@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
