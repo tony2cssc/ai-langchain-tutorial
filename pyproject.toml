@@ -16,6 +16,8 @@ langchain-community = "^0.0.31"
 tavily-python = "^0.3.3"
 langchainhub = "^0.1.15"
 langserve = {extras = ["all"], version = "^0.0.51"}
+docarray = "^0.40.0"
+tiktoken = "^0.6.0"
 
 [tool.poetry.group.dev.dependencies]
 pandas = "^2.2.1"
